@@ -3,3 +3,18 @@ The Asset Management System is a full-stack web application built to efficiently
 
 Designed with performance and simplicity in mind, this system is ideal for internal use by IT departments, offices, and institutions to maintain asset records and user accountability.
 
+
+** ✨ Features**
+🧾 Asset Listing: View, search, and filter all available or assigned assets
+
+➕ Add/Edit Assets: Add new assets with details like name, category, ID, location, etc.
+
+🔁 Assignment Tracking: Assign assets to users and track who has what
+
+🕓 Asset History: Maintain logs of asset assignment and return history
+
+🔐 Authentication (Optional): Add role-based login for admins or users
+
+📊 Dashboard (Optional): Overview of asset stats and activity logs
+
+
