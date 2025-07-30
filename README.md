@@ -5,6 +5,7 @@ Designed with performance and simplicity in mind, this system is ideal for inter
 
 
 ** ✨ Features**
+
 🧾 Asset Listing: View, search, and filter all available or assigned assets
 
 ➕ Add/Edit Assets: Add new assets with details like name, category, ID, location, etc.
@@ -13,8 +14,8 @@ Designed with performance and simplicity in mind, this system is ideal for inter
 
 🕓 Asset History: Maintain logs of asset assignment and return history
 
-🔐 Authentication (Optional): Add role-based login for admins or users
+🔐 Authentication : Add role-based login for admins or users
 
-📊 Dashboard (Optional): Overview of asset stats and activity logs
+📊 Dashboard : Overview of asset stats and activity logs
 
 
